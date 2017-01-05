@@ -1,0 +1,9 @@
+{
+  "name": "embanet-compass/autocomplete",
+  "type": "moodle-vendor",
+  "description": "Easy Auto Complete",
+  "extra": {
+    "installer-name": "autocomplete",
+    "moodle": {"package_folder_name": "autocomplete"}
+  }
+}
